@@ -1,0 +1,40 @@
+
+header{
+    background-color: #C4C4C4;
+    margin-bottom: -29px;
+}
+img{
+  display: block;   
+  margin: auto;
+}
+body{
+    font-family: 'Times New Roman', sans-serif;
+}
+
+h1,h2 {
+    background-color:#C4C4C4 ; 
+    color: #005677; 
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+h1{
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+li{
+    line-height: 30px;
+}
+
+span{
+    font-weight: bold;
+   
+}
+
+footer{
+    background-color:#005677 ;
+    color: #fff;
+    text-align: center;
+}
